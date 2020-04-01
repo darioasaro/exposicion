@@ -1,0 +1,15 @@
+{
+  "name": "exposicionjsdocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": " ./node_modules/.bin/jsdoc test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "3.6.3"
+  }
+}
